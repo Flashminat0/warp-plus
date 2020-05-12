@@ -15,5 +15,7 @@ steps :
 1. open cmd 
 2. install requests on pip tools (pip install requests)
 3. run the script using python (pthon warp-plus.py)
-4. paste the ID 
+4. paste the ID & Hit enter
 5. Done!
+
+@~minato99
